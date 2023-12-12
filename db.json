@@ -1,0 +1,389 @@
+{
+  "users": [
+    {
+      "id": "01",
+      "disp": 1,
+      "ct": 10,
+      "skill": [
+        {
+          "php": 5,
+          "office": 5,
+          "java": 4,
+          "javascript": 7,
+          "python": 0,
+          "ruby": 5,
+          "assembly": 1,
+          "sql": 7,
+          "git": 9,
+          "linux": 5 
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "disp": 11,
+      "ct": 8,
+      "skill": [
+        {
+          "php": 5,
+          "office": 4,
+          "java": 5,
+          "javascript": 6,
+          "python": 8,
+          "ruby": 9,
+          "assembly": 10,
+          "sql": 4,
+          "git": 9,
+          "linux": 6
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "disp": 5,
+      "ct": 13,
+      "skill": [
+        {
+          "php": 1,
+          "office": 10,
+          "java": 3,
+          "javascript": 10,
+          "python": 9,
+          "ruby": 1,
+          "assembly": 7,
+          "sql": 9,
+          "git": 5,
+          "linux": 7
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "disp": 19,
+      "ct": 7,
+      "skill": [
+        {
+          "php": 5,
+          "office": 7,
+          "java": 10,
+          "javascript": 9,
+          "python": 6,
+          "ruby": 5,
+          "assembly": 8,
+          "sql": 7,
+          "git": 9,
+          "linux": 1 
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "disp": 2,
+      "ct": 30,
+      "skill": [
+        {
+          "php": 2,
+          "office": 6,
+          "java": 3,
+          "javascript": 5,
+          "python": 5,
+          "ruby": 2,
+          "assembly": 0,
+          "sql": 1,
+          "git": 7,
+          "linux": 5
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "disp": 10,
+      "ct": 0,
+      "skill": [
+        {
+          "php": 5,
+          "office": 2,
+          "java": 5,
+          "javascript": 6,
+          "python": 1,
+          "ruby": 6,
+          "assembly": 2,
+          "sql": 2,
+          "git": 1,
+          "linux": 9 
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "disp": 30,
+      "ct": 8,
+      "skill": [
+        {
+          "php": 2,
+          "office": 10,
+          "java": 7,
+          "javascript": 9,
+          "python": 7,
+          "ruby": 10,
+          "assembly": 2,
+          "sql": 9,
+          "git": 10,
+          "linux": 1 
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "disp": 12,
+      "ct": 2,
+      "skill": [
+        {
+          "php": 5,
+          "office": 7,
+          "java": 8,
+          "javascript": 1,
+          "python": 0,
+          "ruby": 3,
+          "assembly": 8,
+          "sql": 8,
+          "git": 1,
+          "linux": 1
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "disp": 8,
+      "ct": 9,
+      "skill": [
+        {
+          "php": 10,
+          "office": 3,
+          "java": 0,
+          "javascript": 9,
+          "python": 4,
+          "ruby": 6,
+          "assembly": 9,
+          "sql": 3,
+          "git": 2,
+          "linux": 1 
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "disp": 16,
+      "ct": 7,
+      "skill": [
+        {
+          "php": 0,
+          "office": 7,
+          "java": 6,
+          "javascript": 0,
+          "python": 4,
+          "ruby": 8,
+          "assembly": 10,
+          "sql": 1,
+          "git": 8,
+          "linux": 1
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "disp": 23,
+      "ct": 15,
+      "skill": [
+        {
+          "php": 1,
+          "office": 0,
+          "java": 1,
+          "javascript": 2,
+          "python": 10,
+          "ruby": 8,
+          "assembly": 8,
+          "sql": 4,
+          "git": 5,
+          "linux": 5
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "disp": 0,
+      "ct": 2,
+      "skill": [
+        {
+          "php": 7,
+          "office": 3,
+          "java": 6,
+          "javascript": 4,
+          "python": 9,
+          "ruby": 3,
+          "assembly": 10,
+          "sql": 1,
+          "git": 3,
+          "linux": 8
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "disp": 1,
+      "ct": 17,
+      "skill": [
+        {
+          "php": 3,
+          "office": 4,
+          "java": 1,
+          "javascript": 1,
+          "python": 9,
+          "ruby": 9,
+          "assembly": 1,
+          "sql": 7,
+          "git": 3,
+          "linux": 10
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "disp": 12,
+      "ct": 22,
+      "skill": [
+        {
+          "php": 0,
+          "office": 5,
+          "java": 3,
+          "javascript": 6,
+          "python": 8,
+          "ruby": 10,
+          "assembly": 8,
+          "sql": 4,
+          "git": 6,
+          "linux": 9 
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "disp": 16,
+      "ct": 18,
+      "skill": [
+        {
+          "php": 1,
+          "office": 4,
+          "java": 5,
+          "javascript": 3,
+          "python": 10,
+          "ruby": 1,
+          "assembly": 2,
+          "sql": 9,
+          "git": 2,
+          "linux": 8
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "disp": 11,
+      "ct": 1,
+      "skill": [
+        {
+          "php": 4,
+          "office": 9,
+          "java": 3,
+          "javascript": 6,
+          "python": 10,
+          "ruby": 7,
+          "assembly": 9,
+          "sql": 3,
+          "git": 9,
+          "linux": 10
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "disp": 23,
+      "ct": 12,
+      "skill": [
+        {
+          "php": 9,
+          "office": 8,
+          "java": 1,
+          "javascript": 2,
+          "python": 6,
+          "ruby": 3,
+          "assembly": 6,
+          "sql": 3,
+          "git": 4,
+          "linux": 5
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "disp": 11,
+      "ct": 21,
+      "skill": [
+        {
+          "php": 4,
+          "office": 6,
+          "java": 1,
+          "javascript": 1,
+          "python": 9,
+          "ruby": 4,
+          "assembly": 2,
+          "sql": 7,
+          "git": 0,
+          "linux": 5
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "disp": 27,
+      "ct": 20,
+      "skill": [
+        {
+          "php": 4,
+          "office": 2,
+          "java": 6,
+          "javascript": 0,
+          "python": 4,
+          "ruby": 8,
+          "assembly": 9,
+          "sql": 0,
+          "git": 8,
+          "linux": 5
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "disp": 16,
+      "ct": 10,
+      "skill": [
+        {
+          "php": 9,
+          "office": 8,
+          "java": 10,
+          "javascript": 10,
+          "python": 6,
+          "ruby": 8,
+          "assembly": 7,
+          "sql": 5,
+          "git": 7,
+          "linux": 2
+        }
+      ]
+    }
+  ],
+  "tarefa": [
+    "python",
+    "php",
+    "ruby"
+  ]
+}
