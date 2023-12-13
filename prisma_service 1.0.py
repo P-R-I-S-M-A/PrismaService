@@ -28,7 +28,6 @@ def lambda_handler(event, context):
             
         # Check se 'body' está presente no evento e não está vazio
         if 'body' not in event or not event['body']:
-            print("Corpo da solicitação ausente ou vazio")
             return {
                 'statusCode': 400,
                 'headers': headers,
@@ -78,9 +77,6 @@ def lambda_handler(event, context):
             sql.append(int(user["data"]["skill"][0]["sql"]))
             git.append(int(user["data"]["skill"][0]["git"]))
             linux.append(int(user["data"]["skill"][0]["linux"]))
-            
-        # Adicione pontos de verificação após cada variável
-        print("Valores coletados:", ids, disp, ct, php, office, java)
 
         # Criar a matriz usando NumPy
         matrix = np.array([range(0, len(ids)), disp, ct, php, office, java, javascript, python, ruby, assembly, sql, git, linux]).T
